@@ -18,5 +18,6 @@ int main() {
     cout << "second number" << endl;
     cin >> b;
     multiply_and_log(a, b);
+    system("pause");
     return 0;
 }
